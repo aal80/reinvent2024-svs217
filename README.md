@@ -12,4 +12,4 @@ TBD
 * [[Guide] Serverless streaming processing with AWS Lambda](https://serverlessland.com/content/service/lambda/guides/serverless-stream-processing-with-lambda/1-introduction)
 * [[Guide] Serverless Kafka processing with AWS Lambda](https://serverlessland.com/content/guides/lambda-kafka/introduction)
 * [[Video] Understanding AWS Lambda scaling and throughput](https://www.youtube.com/watch?v=hPIV52S530A&pp=ygUXbGFtYmRhIHN0cmVhbWluZyBqdWxpYW4%3D)
-* 
+* [[Workshop] Amazon MSK workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/c2b72b6f-666b-4596-b8bc-bafa5dcca741/en-US)
