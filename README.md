@@ -8,6 +8,7 @@ AWS Lambda event source mappings simplify building the processing layer for stre
 * [Session presentation slides](./SVS217_improve_throughput_and_observability_serverless_streaming.pdf?raw=true)
 
 ## Useful links
+* [[Blog] Introducing Provisioned Mode for Kafka Event Source Mappings with AWS Lambda](https://aws.amazon.com/blogs/compute/introducing-provisioned-mode-for-kafka-event-source-mappings-with-aws-lambda/)
 * [[Blog] Scaling improvements when processing Apache Kafka with AWS Lambda](https://aws.amazon.com/blogs/compute/scaling-improvements-when-processing-apache-kafka-with-aws-lambda/)
 * [[Blog] Using Amazon MSK as an event source for AWS Lambda](https://aws.amazon.com/blogs/compute/using-amazon-msk-as-an-event-source-for-aws-lambda/)
 * [[Blog] Offset lag metric for Amazon MSK as an event source for Lambda](https://aws.amazon.com/blogs/compute/offset-lag-metric-for-amazon-msk-as-an-event-source-for-lambda/)
