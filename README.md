@@ -4,6 +4,10 @@
 
 AWS Lambda event source mappings simplify building the processing layer for streaming workloads. Connect your event source to your Lambda function to use built-in integrations to filter and batch messages and readily handle errors. Join this session to learn how to use newly launched features to improve the throughput and observability of new and existing processing workloads, without changes to your function code. Explore how to meet even the most stringent processing needs when working with Apache Kafka event sources and how new enhanced metrics improve visibility into Amazon SQS, Amazon Kinesis, Kafka, and Amazon DynamoDB event sources
 
+## Video (click to watch)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V8w35g7shIY/0.jpg)](https://www.youtube.com/watch?v=V8w35g7shIY)
+
+
 ## Slides
 * [Session presentation slides](./SVS217_improve_throughput_and_observability_serverless_streaming.pdf?raw=true)
 
